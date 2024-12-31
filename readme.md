@@ -22,6 +22,12 @@ Welcome to **CinemaHub**, a PHP-based series and film promotion site! This proje
 - **MySQL**: Database to store all user and content data.
 - **HTML/CSS/JavaScript**: Frontend for a seamless user experience.
 
+![image](https://github.com/user-attachments/assets/c5147547-3761-4ace-87c8-f26070b23a55)
+![image](https://github.com/user-attachments/assets/85afdfe1-40fb-4a9a-a893-17bc64285ac1)
+![image](https://github.com/user-attachments/assets/6babd392-32ce-4d2e-93d2-ce5d9a82cc9c)
+![image](https://github.com/user-attachments/assets/c8b975f6-ae42-459a-bdfc-cc380430de4c)
+
+
 ## 🚀 Installation
 
 1. Clone the repository:
